@@ -8,7 +8,7 @@
 /.bundle
 
 # Ignote 
-./.idea
+.idea/*
 
 # Ignore all logfiles and tempfiles.
 /log/*
